@@ -197,9 +197,10 @@ PHP8はJITエンジンを使用可能になるのが、大きな変更点かと�
 PHP7.4.xからPHP8.0.xへの移行 | PHPマニュアル<br>
 https://www.php.net/manual/ja/migration80.new-features.php
 <br>
+<br>
 下位互換性のない変更点 | PHPマニュアル<br>
 https://www.php.net/manual/ja/migration80.incompatible.php
-「0 == ""」等の結果が変わってしまうのは、旧バージョンから移行した際に要注意。<br>
-__autoload() も廃止になっているので、ここも旧バージョンから移行の際に要注意。<br>
+<br>
+「0 == ""」等の結果が変わってしまうのは、旧バージョンから移行した際に要注意。<br>__autoload() も廃止になっているので、ここも旧バージョンから移行の際に要注意。<br>
 <br>
 以上です。
