@@ -201,6 +201,6 @@ https://www.php.net/manual/ja/migration80.new-features.php
 下位互換性のない変更点 | PHPマニュアル<br>
 https://www.php.net/manual/ja/migration80.incompatible.php
 <br>
-「0 == ""」等の結果が変わってしまうのは、旧バージョンから移行した際に要注意。<br>__autoload() も廃止になっているので、ここも旧バージョンから移行の際に要注意。<br>
+「0 == ""」の結果が変わってしまうのは、旧バージョンから移行した際に要注意。<br>__autoload() も廃止になっているので、ここも旧バージョンから移行の際に要注意。<br>
 <br>
 以上です。
