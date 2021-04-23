@@ -146,6 +146,7 @@ $array = [
 
 ### 5. エルビス演算子とNull合体演算子
 他と比べると、重要度は落ちるけれど、知っておきましょう。<br>
+<br>
 Null 合体演算子<br>
 https://www.php.net/manual/ja/migration70.new-features.php<br>
 <br>
