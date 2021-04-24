@@ -59,9 +59,10 @@ class AddressController extends Controller
 
     /** 
      * Display a listing of the resource. 
-     *   
+     *
+     * @access public
      * @param Request $request 
-     * @return Illuminate\Http\Response 
+     * @return Response 
      * @throws Exception 
      */  
     public function index(Request $request): Response 
